@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently doing [problem solving](https://www.stopstalk.com/user/profile/porosh45)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my source codes in problem solving are available at [https://www.stopstalk.com/user/profile/porosh45](https://www.stopstalk.com/user/profile/porosh45)
 
