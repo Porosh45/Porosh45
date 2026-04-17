@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Rashedul Hasan</h1>
-<h3 align="center">Junior Software Engineer at Dynamic Solution Innovators LTD.</h3>
+<h3 align="center">Assistant Software Engineer at Dynamic Solution Innovators LTD.</h3>
 
 - 🌱 I’m currently learning **Python**
 
